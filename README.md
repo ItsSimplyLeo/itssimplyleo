@@ -4,14 +4,14 @@ Hi 👋 My name is Leo
 Software Engineer
 -----------------
 
-I've been interested in technology and software since I was 13, working on miscellaneous projects to building my own system throughout my time.
+I've been interested in technology and software since I was 13, i've dedicted my time on various personal projects and contributing to other projects as well as attempting to build my social media.
 
-* 🌍  I'm based in the UK
-* 🖥️  See my portfolio at [https://leo.cx](http://leo.cx)
-* ✉️  You can contact me at [contact@leo.cx](mailto:contact@leo.cx)
-* 🚀  I'm currently working on [SimplyNexus](http://simplynexus.net)
-* 🤝  I'm open to collaborating on new and interesting sandbox content.
-* ⚡  I like to game and stream, attempting to create content across my social media.
+* 🌍  I'm currently based in the United Kingdom
+* 🖥️  View my personal website: [https://leo.cx](http://leo.cx)
+* ✉️  You can contact me at: [contact@leo.cx](mailto:contact@leo.cx)
+* 🚀  My main project is currently [SimplyNexus](http://simplynexus.net)
+* 🤝  I'm open to collaborating on user-generated content projects!
+* ⚡  I like to game and stream, attempting to create numerous types of content!
 
 <a href="https://www.twitter.com/ItsSimplyLeo" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ItsSimplyLeo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
