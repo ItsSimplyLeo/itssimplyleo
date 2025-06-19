@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm ItsSimplyLeo!
 
 ![Visitors](https://komarev.com/ghpvc/?username=ItsSimplyLeo&color=blue)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ItsSimplyLeo&theme=tokyonight)
 
 Welcome to my GitHub profile! I'm passionate about coding, open source, and learning new technologies. Here you'll find some of my projects, contributions, and a glimpse into my coding journey.
